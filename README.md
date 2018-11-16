@@ -52,7 +52,7 @@ python3 -m unittest -v bouncy_test.py
 
 ## Versioning
 
-Use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository]https://github.com/cesarmauriciodr/bouncy/tags). 
+Use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/cesarmauriciodr/bouncy/tags). 
 
 ## Authors
 
