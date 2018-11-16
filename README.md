@@ -26,18 +26,17 @@ https://github.com/cesarmauriciodr/bouncy.git
 
 Activate virtualenv
 ```
-virtualenv --python=python3.6.5 bouncy-env
+virtualenv --python=python3.6 bouncy-env
 source bouncy-env/bin/activate
 ```
 
-Install requirements (for run test)
+Install requirements (for run test), go to project and run
 ```
-cd bouncy/
 pip3 install -r requirements.txt
 ```
 
 ## Run project
-Just run:
+go to project and just run:
 
 ```
 python3 bouncy_main.py <percentage>
@@ -48,7 +47,7 @@ Enjoy!! =)
 Just run:
 
 ```
-python3 -m unittest -v test_bouncy.py
+python3 -m unittest -v bouncy_test.py
 ```
 
 ## Versioning
