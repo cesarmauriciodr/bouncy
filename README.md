@@ -1,5 +1,4 @@
-# ZINA (test)
-Technical test for Zina Team / Nokia
+# Bouncy Numbers
 
 ### Problem
 Working from left-to-right if no digit is exceeded by the digit to its left it is called an increasing number; for example, 134468.
